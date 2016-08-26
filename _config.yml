@@ -1,0 +1,28 @@
+name: statonwinter
+favicon: null
+layout_spectrum: 0.6787040962371975
+typography_spectrum: 0.0880480648484081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6058599299285561
+  lightness: 0.5036782911047339
+  saturation: 0.4696267698891461
+  rhythmicContrast: 0.3826821628026664
+purpose: []
